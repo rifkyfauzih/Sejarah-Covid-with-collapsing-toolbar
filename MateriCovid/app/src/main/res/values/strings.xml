@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sejarah Covid-19</string>
+
+    <!-- Text String -->
+
+    <string name="aboutToolBsr">Sejarah Covid-19</string>
+
+    <string name="aboutCollapsingToolBsr">Sejarah Covid-19</string>
+
+    <string name="g">Covid-19 adalah penyakit menular yang disebabkan oleh sindrom pernapasan akut corona virus 2 (SARS-COV-2) atau virus yang menyerang sistem pernapasan.\n
+\n
+Penyakit ini pertama kali diidentifikasi pada Desember 2019 di Wuhan, ibu kota provinsi Hubei China, dan sejak saat itu menyebar secara global, mengakibatkan pandemi koronavirus 2019-2020 yang sedang berlangsung.\n
+\n</string>
+
+
+</resources>
